@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
-
+*.gco
+*.gcno
+*.gcda
+*.info
+.vscode
 # Object files
 *.o
 *.ko
